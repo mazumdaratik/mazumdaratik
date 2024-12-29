@@ -22,7 +22,8 @@ My current focus is on building responsive and scalable web applications.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazumdaratik&show_icons=true&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mazumdaratik&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mazumdaratik&theme=react-dark)
+![Activity Graph](https://github-activity-graph.vercel.app/graph?username=mazumdaratik&bg_color=0d1117&color=58a6ff&line=1f6feb&point=73c3d5&area=true&hide_border=true)
+
 
 ---
 
