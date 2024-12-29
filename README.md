@@ -9,7 +9,7 @@ My current focus is on building responsive and scalable web applications.
 ### 🛠️ **Prefered Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="[https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"](https://cdn.vectorstock.com/i/500p/78/57/react-icon-in-a-hexagon-vector-36587857.jpg)">
+  <img src="[https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"](https://cdn.vectorstock.com/i/500p/78/57/react-icon-in-a-hexagon-vector-36587857.jpg)>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
