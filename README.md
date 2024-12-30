@@ -8,12 +8,13 @@ My current focus is on building responsive and scalable web applications.
 
 ### 🛠️ Preferred Stack:
 <p align="center">
-  <a href="github.com/mazumdaratik">
+  <a href="https://github.com/mazumdaratik">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,mongodb,mysql,firebase,tailwind,figma" />
   </a>
 </p>
 
 ---
+
 <div align="center">
 ## Git stats:
 
@@ -27,7 +28,7 @@ My current focus is on building responsive and scalable web applications.
   </a>
 </div> <br>
 
-![mazumdaratik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mazumdaratik&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)
+![mazumdaratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mazumdaratik&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)
 
 <br/> 
 
