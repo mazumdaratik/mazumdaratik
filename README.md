@@ -15,19 +15,20 @@ My current focus is on building responsive and scalable web applications.
 
 ---
 <div align="center">
-### 📈 Git Stats:
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazumdaratik&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazumdaratik&show_icons=true&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mazumdaratik&theme=radical)  
+## Git stats:
 
+<div align="center">
+        <a href="https://github.com/mazumdaratik">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazumdaratik&custom_title=mazumdaratik's%20Used%20Languages&langs_count=6&card_width=400&theme=dark&hide_border=true&layout=compact" alt="Most used languages" /> 
+                <br>
+  <img src="https://streak-stats.demolab.com?user=mazumdaratik&theme=dark&hide_border=true&border_radius=0&" height="150" alt="streaks graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mazumdaratik&custom_title=mazumdaratik's%20GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&border_radius=0&count_private=true" height="150" alt="stats graph"  />
+
+  </a>
 </div> <br>
-![Activity Graph](https://github-activity-graph.vercel.app/graph?username=mazumdaratik&bg_color=0d1117&color=58a6ff&line=1f6feb&point=73c3d5&area=true&hide_border=true)
-</br>
----
 
-### 📧 Contact Me:
-- 📩 Email: [rjatik990@gmail.com](mailto:rjatik990@gmail.com)
-- 🌐 Portfolio: [Working on it...](#)
+![mazumdaratik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mazumdaratik&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)
+
+<br/> 
 
 ---
